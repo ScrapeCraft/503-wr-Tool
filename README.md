@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./build/appicon.png" alt="503 微软邮箱工具箱" width="112" />
+  <img src="appicon.png" alt="503 微软邮箱工具箱" width="112" />
   <h1>503 微软邮箱工具箱</h1>
   <p>基于 Wails 的 Windows Microsoft 邮箱批处理桌面工具箱</p>
 
